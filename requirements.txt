@@ -1,0 +1,5 @@
+panel>=1.4
+pyvista>=0.43
+pandas>=2.0
+vtk>=9.0
+numpy>=1.24
